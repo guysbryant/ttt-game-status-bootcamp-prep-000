@@ -38,17 +38,3 @@ WIN_COMBINATIONS = [
   def winner(board)
     return board[won?(board)[0]] if won?(board) != false
   end
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
